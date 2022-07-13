@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6465449a-7418-4292-8a00-d3343ffcd026" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/qrcode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/simplemde.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/awesome-qr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bmob-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/excanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/simplemde.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/plus/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +61,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/plus/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +73,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/plus/img" />
     </key>
   </component>
@@ -72,9 +84,13 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/edit-online/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="md.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/edit-online/md.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.md.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
@@ -87,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657643352125</updated>
-      <workItem from="1657643353260" duration="7267000" />
+      <workItem from="1657643353260" duration="8145000" />
     </task>
     <servers />
   </component>
